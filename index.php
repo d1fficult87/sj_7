@@ -28,8 +28,10 @@
                 );
 
         foreach($data as $name => $age){
-            echo"$name ma $age rokov <br>";
+            echo"$name ma $age rokov <br>"; 
         }
+
+        //komentar
     ?>
 </body>
 </html>
